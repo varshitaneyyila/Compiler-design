@@ -1,0 +1,7 @@
+BcsMain
+{
+    int a;
+    bool flag;
+    a = 14;
+    flag = a + 41
+}

@@ -1,0 +1,5 @@
+i = 0
+n = 5
+sum = 0
+t1 = sum + n
+sum = t1

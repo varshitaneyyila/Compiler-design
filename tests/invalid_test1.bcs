@@ -1,0 +1,5 @@
+BcsMain
+{
+    int a;
+    a = b + 97
+}

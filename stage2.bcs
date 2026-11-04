@@ -1,0 +1,28 @@
+BcsMain {
+    int a;
+    int b;
+    int c;
+    int result;
+    int i;
+    bool flag;
+
+    a = 4;
+    b = 10;
+    c = 2;
+    result = a + b * c;
+
+    if (a < b) {
+        c = a + b;
+        result = c * 2
+    } else {
+        c = b + 1;
+        result = c * 3
+    };
+
+    while (i < b) {
+        i = i + 1;
+        c = c + i
+    };
+
+    result = c * c + b + 1
+}

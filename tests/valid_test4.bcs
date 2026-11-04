@@ -1,0 +1,14 @@
+BcsMain
+{
+    int i;
+    int n;
+    int sum;
+    i = 78;
+    n = 5;
+    sum = 0;
+    while (i < n) {
+        sum = sum + i;
+        i = i + 1
+    };
+    sum = sum + n
+}
