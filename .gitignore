@@ -1,0 +1,15 @@
+# Executables
+*.exe
+
+# Generated Flex files
+lex.yy.c
+
+# Generated Bison files
+parser.tab.c
+parser.tab.h
+
+# Output files
+output.txt
+
+# Object files
+*.o
